@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Code to make website run in mobile -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="{{url_for('static',filename = 'style.css')}}">
+    <title>Login System in python</title>
+</head>
+<body>
+    <form id="form" action="/login" method="post">
+        <label>Login</label>
+        <div class="field f_un {% if wrong_password == True %}wrong_pw{% endif %}">
+            <input type="text" name="username" id="username" autocomplete="off" required>
+            <p id="username_label">Username</p>
+        </div>
+
+        <div class="field f_pw {% if wrong_password == True %}wrong_pw{% endif %}">
+            <input type="password" name="password" id="password" required>
+            <p id="password_label">Password</p>
+        </div>
+
+        <div class="btns">
+            <a href="/create" id="create">Create Account</a>
+            <input type="submit" value="Continue" id="continue">
+        </div>
+    </form>
+
+    <script>
+        if ("{{ wrong }}" == 'True'){
+            alert("Wrong Login details: {{ msg }}");
+            password.focus();
+        }
+    </script>
+</body>
+</html>

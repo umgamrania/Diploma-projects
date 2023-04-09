@@ -1,0 +1,12 @@
+6001 Diary 59 0 12-5-2021 200-page-personal-dairy
+6002 Pen 45 0 18-4-2022 S.S.-Natural-pen-box-of-40-pcs.
+6003 Stappler 55 1 14-6-2021 Compact-Stappler-with-stapples
+6004 Geometry-box 299 1 14-6-2021 Geometry-box-with-mechanical-pencils,-eraser,-compass-and-set-square
+6005 Color-pen-set 99 1 18-4-2021 Color-pen-set-with-10-different-color-pencils
+6006 Notebook 39 0 24-6-2021 Classmate-200-page-notebook
+6007 Bag 499 3 16-10-2021 Fastrack-bag-for-school/college-students
+6008 Stickey-notes 25 0 18-9-2021 Just-normal-Stickey-notes
+6009 Craft-paper 15 0 13-4-2021 15mm-x-15mm-craft-paper-set-in-different-colors
+6010 Drawing-sheet 35 0 15-6-2022 High-quality-A2-sized-drawing-sheet
+6011 Water-colors 55 0 6-2-2022 Water-colors-set-of-12-colors
+6012 Pencil 39 0 1-5-2022 Different-shades-of-pencils-set-of-8-pencils

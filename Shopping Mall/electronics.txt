@@ -1,0 +1,14 @@
+2001 samsung-43"-led-smart-tv 43000 5 15-4-2022 Samsung-TV-43"-8k-resolution-smart-TV-with-Harman-Kardon-sound
+2002 Apple-iPhone-13-Pro-Max-Gold 129999 1 15-5-2022 Does-this-device-need-any-Description?
+2003 Google-Pixel-6-Pro 69999 1 12-4-2022 Google-Pixel-6-Pro-(128-GB)-Just-black
+2004 Google-Pixel-6 49999 1 11-3-2022 Google-Pixel-6-(64GB)-Pure-white
+2005 Xiaomi-Mi-12s-pro-5G 64999 1 2-5-2022 Xiaomi-Mi-12s-Pro-with-Snapdragon-8-Gen-1-and-android-12
+2006 Apple-MacBook-Air-(M1) 82300 3 17-3-2022 Apple-MacBook-Air-256GB/8GB-with-M1-Max,-Silver
+2007 Samsung-Galaxy-Book-Pro-360 115990 3 16-4-2022 Samsung-Galaxy-Book-Pro-360-with-Intel-Core-i9,-512GB/16GB,-Intel-EVO-certified
+2008 Apple-AirPods-Max 59999 2 18-5-2021 Apple-AirPods-Max-Silver-with-Case-and-in-the-box-Charger
+2009 Boat-rockerz-wireless-TWS 1300 1 17-3-2022 Boat-Rockerz-299-True-wireless-sound-with-10-mm-drivers
+2010 Samsung-Front-load-Washing-machine 36900 5 15-6-2021 Samsung-8-KG-5-star-fully-automated-washing-machine
+2011 Whirlpool-Top-load-Washing-machine 16900 5 16-8-2021 LG-6.5-KG-Fully-automatic-smart-inverter-washing-machine
+2012 YAMAHA-5.1-home-theater 49900 7 12-5-2021 YAMAHA-5.1-Surround-sound-home-theater-with-Dolby-Atmos
+2013 Hitachi-1.5-Ton-AC 36290 5 19-7-2021 Hitachi-1.5-Ton-4-star-inverter-AC-with-built-in-air-purifier-(White)
+2014 Samsung-1.5-Ton-AC 44990 5 18-6-2021 Samsung-1.5-Ton-5-star-Windfree-technology-Inverter-AC-(Geo-Plain-color)

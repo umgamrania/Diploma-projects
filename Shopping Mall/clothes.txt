@@ -1,0 +1,11 @@
+1001 Men's-Tshirt-(half-sleeves) 499 2 2-6-2022 Best-quality-Men's-Tshirt-in-various-color-options
+1002 Men's-Tshirt-(full-sleeves) 549 2 2-3-2022 Best-quality-Men's-Tshirt-with-full-length-sleeves
+1003 Men's-Shirt 599 2 12-4-2022 Premium-Shirts-for-men-made-with-quality-fabric
+1004 Jeans-for-men 349 1 12-11-2021 Blue-jeans-for-men
+1005 Men's-jeans-(Black) 399 2 11-2-2022 Men's-jeans-in-rich-black-color-and-premium-quality-fabric
+1006 Hoodie-for-men 449 1 15-3-2022 Trending-hoodie-for-men-with-soft-finish-material
+1007 Kurti-for-women 399 2 12-4-2022 Regular-style-kurti-for-women-with-comfortable-fit
+1008 Dresses-for-women 599 1 14-5-2022 New-arrival-fancy-dresses-for-women-in-4-beautiful-colors
+1009 Saree 799 2 23-3-2022 Premium-saree-for-women-made-from-silk
+1010 Socks 299 1 15-3-2022 Ankle-length-Socks-for-men-and-women-(pack-of-3)
+1011 Winter-cap 200 0 12-1-2022 Woolen-winter-cap-for-men-and-women

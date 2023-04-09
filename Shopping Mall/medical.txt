@@ -1,0 +1,6 @@
+4001 Bandages 99 0 26-5-2022 Pack-of-10-general-purpose-bandages
+4002 First-aid-kit 399 3 15-6-2022 First-aid-kit-with-all-primary-medicines-and-other-things
+4003 Paracitamol 15 5 10-6-2022 Paracetamol-500mg-(pack-of-10)
+4004 Epson-salt 99 5 12-5-2022 Epson-salt-for-pain-reliefe
+4005 Hand-sanitizer 110 5 28-2-2022 Hand-sanitizer-_-99.99%-germ-kill-gurantee
+4006 Hand-golves 59 2 15-4-2022 Sergical-Hand-golves-(pack-of-5)

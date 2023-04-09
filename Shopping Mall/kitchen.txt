@@ -1,0 +1,10 @@
+7001 Non-stick-pan 299 2 12-4-2022 General-purpose-Non-stick-pan
+7002 Knife-set 399 3 14-4-2021 Shef's-knife-set-(set-of-10-knives)
+7003 Spoons 299 1 14-6-2020 Stainless-steel-spoons-and-forks-(set-of-10-spoons,-5-forks)
+7004 Dinner-set 499 3 14-12-2022 Modern-dinner-set
+7005 Water-glasses 299 4 14-8-2021 Water-glasses-set-of-10-glasses
+7006 Containers 499 3 15-9-2021 General-purpose-containers-of-10-liters-each-(pack-of-5)
+7007 Mug-set 399 2 14-3-2021 Ceramic-mug-set-(Coffee,-tea)
+7008 Cooker-set 1099 2 22-4-2022 Cooker-set-(1.5L,-3L,-5L-combo)
+7009 Electric-stove 1299 3 26-5-2022 Induction-electric-stove
+7010 Gas-stove 899 28-4-2022 Gerenal-gas-stove
